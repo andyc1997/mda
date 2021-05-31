@@ -31,7 +31,7 @@ The jupyter notebooks in [code](code) are organized as follows:
 ### Section 4: App development in Dash and Plotly frameworks
 * Build and deploy an App for data visualization with differenet countries and mortality prediction model: [mda_app](code/mda_app)
 * The App is deployed at here [https://mdaproject.herokuapp.com/](https://mdaproject.herokuapp.com/)
-* If there is an application error, please refresh the webpage and try again
+* If there is an application error, please refresh the webpage and try again (probably due to request time out)
 
 *Remark: As data are provided in [data](data/), the jupyter notebooks can be run in any order.*
 
