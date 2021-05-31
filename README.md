@@ -1,5 +1,7 @@
 # Modern Data Analytics - Thailand group
 
+### Installation
+
 A repository for project on github. After 
 
 `git clone https://github.com/andyc1997/mda.git`
