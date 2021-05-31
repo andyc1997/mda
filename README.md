@@ -35,4 +35,11 @@ The jupyter notebooks in [code](code) are organized as follows:
 
 *Remark: As data are provided in [data](data/), the jupyter notebooks can be run in any order.*
 
+---
 
+### Data sources
+
+1. [Monthly mortality statistics in Belgium](https://statbel.fgov.be/en/news/causes-and-places-death-month-open-data)
+2. [Meteorological variables for European countries](https://power.larc.nasa.gov/data-access-viewer/)
+3. [Reddit: 'Hell is coming': Western Europe braces for its hottest weather since a 2003 heat wave killed 15,000 people in France.
+](https://www.reddit.com/r/worldnews/comments/c5e7zr/hell_is_coming_western_europe_braces_for_its/)
